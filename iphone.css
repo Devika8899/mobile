@@ -1,0 +1,37 @@
+.bgimg2 {
+	background-image: url('https://res.cloudinary.com/dvsuef6ac/image/upload/v1672226107/images_nykojw.jpg');
+	background-size:  cover;
+	height: 200vh;
+}
+.headfirst2  {
+	color: black;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+}
+.cardlayout2 {
+	background-color:white;
+
+	border-top-left-radius:12px;
+	border-top-right-radius: 12px;
+	margin: 100px;
+	margin-top:50px;
+
+}
+.cardcon2 {
+	padding: 20px;
+}
+.headsecond2 {
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.paraline2 {
+	color: #6c6b70;
+	font-family: 'Roboto';
+	font-size: 13px;
+	
+}
